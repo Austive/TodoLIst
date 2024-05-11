@@ -23,4 +23,4 @@ This is a simple Todo List application built using HTML, CSS, and JavaScript.
 To use this app, simply clone the repository:
 
 ```bash
-git clone <[repository-url](http://localhost/Protech/todo.php)>
+git clone <](http://localhost/Protech/TodoList/todo.php)>
