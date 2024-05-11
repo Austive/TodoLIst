@@ -21,14 +21,14 @@
         }
         .container {
             width: 90%;
-            max-width: 400px;
+            max-width: 700px;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         input[type="text"],
         input[type="date"] {
-            width: calc(100% - 140px); /* Adjusted width to accommodate due date input */
+            width: calc(100% - 340px); /* Adjusted width to accommodate due date input */
             padding: 10px;
             margin-bottom: 10px;
             border: 1px solid #ccc;
